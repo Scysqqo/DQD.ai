@@ -1,0 +1,33 @@
+﻿ID ,First_Name,Last_Name,Sex,Country,District,Email ,Date_of_Birth,Book_ID,ISBN_10,Price,Delivered
+122,João,Salvador,Male,Portugal,Oeiras,jsalvador.wo22@hotmail.com,13/2/1996,27,2024000100,23.6,No
+127,Ana,Victor,Female,Portugal,Nampula,avictor.bh16@gmail.com,3/2/1987,9,2024000127,33.7,No
+129,Mondlane,   ,Male,Moçambique,Quelimane,t.sg29@yahoo.com,3/18/2004,4,2024000129,13.6,Yes
+115,Leonor,António,Female,Portugal,Moforte,lantonio.ss44@gmail.com,28/4/2003,30,2024000115,67.9,No
+124,Inês,Alexandre,Male,MZ,Chimoio,ialexandre.nu32@#gmail.com,2/2/2001,5,2024000128,24,Yes
+102,Pedro,Dinis,Male,Portugal,Sobral de Monte Agraço,pdinis.iq9@yahoo.com,3/2/1998,15,2024000102,65.7,Yes
+130,João,Salvador,Male,PRT,Oeiras,jsalvador.wo22@hotmail.com,13/2/1996,27,2024000100,23.6,No
+115,Tomás,Gustavo,Male,Portugal,Fronteira,tgustavo.pr49@yahoo.com,8/1/2000,8,2024000112,23,No
+128,Sofi,Fernando,Female,Moçambique,Xai-Xai,sfernando.yw25@yahoo.com,23/3/1989,32,2024000128,59.2,No
+125,Amina,António,Female,Moçambique,Beira,mantónio.bm5@hotmail.com,18/3/2002,22,2024000125,35.4,
+123,Josina,Eduardo,Female,Moçambique,Nampula,beduardo.fe16 @gmail.com,9/10/1980,31,2024000123,66.7,No
+120,Margarida,André,,Moçambique,Matola,mandre.wd38@hotmail.com,20/4/1999,2,2024000120,,No
+126,Mariana,Costa,Female,Moçambique,Lichinga,mcosta.nl27@hotmail.com,2/2/2001,11,2024000126,31.9,No
+109,Martim,José,Male,Portugal,,mjosé.ha43@yahoo.com,10/9/1979,25,2024000109,23.7,
+107,Paulo,Vicente,Female,Portugal,Avis,lvicente.nb21@yahoo.com,12/7/1977,24,2024000107,65.6,No
+101,Guilheme,Tiago,Male,Portugal,Chimoio,gtiago.lo17@yahoo.com,2/22/1997,12,2024000101,27,Yes
+104,Francisco,Diogo,Male,Portugal,Vila Franca de Xira,fdiogo.fg10@hotmail.com,2/2/2001,28,2024000106,35.9,Yes
+116,Cossa,Danl,Male,Moçambique,Maputo-cidade,mdaniel.ak30@gmail.com,3/5/2004,16,2024000116,41.2,Yes
+121,Francisca,Luís,Female,,Macomia,fluís.hw22@yahoo.com,2/2/2001,19,2024000121,42.4,Yes
+100,Tiago,Manuel,Male,Portugal,Oeiras,tmanuel.pr30@hotmail.com,1/23/1996,7,2024000100,57.5,Yes
+106,Duarte,David,Male,Portugal,Arronches,ddavid.ed39@hotmail.com,13/6/1976,20,2024000113,31,Yes
+119,Beatriz,Bernardo,Female,Moçambique,Inhambane,bbernardo.zg47@gmail.com,21/3/1998,23,2024000119,41.4,No
+108,Santiago,Simão,Male,Potugal,Campo Maior,ssimão.fp38@hotmail.com,11/8/1978,1,2024000108,51.2,No
+114,Alice,Henrique,Female,Portugal,Marvão,ahenrique.ql38@hotmail.com,18/3/2002,10,2024000114,60.4,Yes
+117,Amisse,Vasco,Male,Moçambique,Pemba,bvasco.yn21@hotmail.com,18/6/2005,3,2024000117,16.9,No
+113,Maria,Manuel,Female,Portugal,Gavião,mmanuel.uf50@gmail.com,2/2/2001,29,2024000113,68.5,Yes
+103,Gonçalo,Rafael,Male,Portgal,Torres Vedras,grafael.yy12@gmail.com,20/4/1999,26,2024000103,57.6,Yes
+118,Carolina,Leonardo,Female,Moçambique,Balama,cleonardo.lo41@gmail.com,22/2/1997,21,2024000124,52.3,No
+111,Gabriel,Diego,Male,Portugal,Elvas,gdiego.bm8@hotmail.com,22/2/1997,18,2024000111,19,
+105,Afonso,Lucas,,Portugal,Alter do Chão,alucas ak12@hotmail.com,18/3/2002,17,2024000105,2.29,No
+110,Miguel,Mateus,Male,Moçambique,Crato,mmateus.hw34@yahoo.com,29-4-1974,6,2024000110,40.5,Yes
+104,Francisco,Diogo,Male,Portugal,Vila Franca de Xira,fdiogo.fg10@hotmail.com,2/2/2001,28,2024000106,35.9,Yes
